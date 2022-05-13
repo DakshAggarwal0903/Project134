@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+h1{
+    margin:0
+}
+canvas{
+    border: 5px white solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px purple;   
+    margin-top:50px;
+}
